@@ -1,0 +1,13 @@
+# Compiled binaries
+Q1
+Q3
+Q4
+
+# Debug symbols
+*.dSYM/
+
+# IDE configurations
+.vscode/
+
+# OS metadata
+.DS_Store
