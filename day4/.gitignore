@@ -1,0 +1,11 @@
+# Compiled binaries
+Q13
+Q14
+Q15
+Q16
+
+# Debug symbols
+*.dSYM/
+
+# VS Code
+.vscode/
