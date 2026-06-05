@@ -21,7 +21,19 @@ Summer_Assignment_2501920110344/
 │   ├── Q6.c — Reverse a number
 │   ├── Q7.c — Product of digits
 │   └── Q8.c — Palindrome number check
-└── README.me
+├── day3/
+│   ├── Q9.c — Prime number check
+│   ├── Q10.c — Prime numbers in a range
+│   ├── Q11.c — GCD of two numbers
+│   └── Q12.c — LCM of two numbers
+├── day4/
+│   ├── Q13.c — Fibonacci series up to N terms
+│   ├── Q14.c — Find Nth Fibonacci term
+│   ├── Q15.c — Armstrong number check
+│   └── Q16.c — Armstrong numbers in a range
+└── README.md
+```
+
 ## 💻 Tech Stack
 
 - **Language:** C
