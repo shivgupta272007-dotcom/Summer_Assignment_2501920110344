@@ -31,6 +31,21 @@ Summer_Assignment_2501920110344/
 │   ├── Q14.c — Find Nth Fibonacci term
 │   ├── Q15.c — Armstrong number check
 │   └── Q16.c — Armstrong numbers in a range
+├── day5/
+│   ├── Q17.c — Perfect number check
+│   ├── Q18.c — Strong number check
+│   ├── Q19.c — Factors of a number
+│   └── Q20.c — Largest prime factor of a number
+├── day6/
+│   ├── Q21.c — Decimal to Binary conversion
+│   ├── Q22.c — Binary to Decimal conversion
+│   ├── Q23.c — Count set bits (1s) in a binary representation
+│   └── Q24.c — Power of a number (x^n)
+├── day7/
+│   ├── Q25.c — Factorial of a number using recursion
+│   ├── Q26.c — Fibonacci series using recursion
+│   ├── Q27.c — Sum of digits using recursion
+│   └── Q28.c — Reverse a number using recursion
 └── README.md
 ```
 
