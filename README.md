@@ -46,6 +46,21 @@ Summer_Assignment_2501920110344/
 │   ├── Q26.c — Fibonacci series using recursion
 │   ├── Q27.c — Sum of digits using recursion
 │   └── Q28.c — Reverse a number using recursion
+├── day8/
+│   ├── Q29.c — Right-angled triangle of asterisks (*)
+│   ├── Q30.c — Right-angled triangle of numbers
+│   ├── Q31.c — Right-angled triangle of alphabets
+│   └── Q32.c — Right-angled triangle of repeated numbers
+├── day9/
+│   ├── Q33.c — Inverted right-angled triangle of asterisks (*)
+│   ├── Q34.c — Inverted right-angled triangle of numbers
+│   ├── Q35.c — Right-angled triangle of repeated alphabets
+│   └── Q36.c — Hollow square pattern of asterisks (*)
+├── day10/
+│   ├── Q37.c — Pyramid pattern of asterisks (*)
+│   ├── Q38.c — Inverted pyramid pattern of asterisks (*)
+│   ├── Q39.c — Right-aligned triangle of numbers
+│   └── Q40.c — Right-aligned triangle of alphabets
 └── README.md
 ```
 
