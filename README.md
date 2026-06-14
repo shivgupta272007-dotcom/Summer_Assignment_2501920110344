@@ -61,6 +61,11 @@ Summer_Assignment_2501920110344/
 │   ├── Q38.c — Inverted pyramid pattern of asterisks (*)
 │   ├── Q39.c — Right-aligned triangle of numbers
 │   └── Q40.c — Right-aligned triangle of alphabets
+├── day11/
+│   ├── Q41.c — Sum of two numbers using function
+│   ├── Q42.c — Find maximum of two numbers using function
+│   ├── Q43.c — Prime number check using function
+│   └── Q44.c — Factorial of a number using function
 └── README.md
 ```
 
