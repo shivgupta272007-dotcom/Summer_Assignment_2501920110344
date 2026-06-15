@@ -66,6 +66,11 @@ Summer_Assignment_2501920110344/
 │   ├── Q42.c — Find maximum of two numbers using function
 │   ├── Q43.c — Prime number check using function
 │   └── Q44.c — Factorial of a number using function
+├── day12/
+│   ├── Q45.c — String palindrome check
+│   ├── Q46.c — Armstrong number check using function
+│   ├── Q47.c — Find Nth Fibonacci term using function
+│   └── Q48.c — Perfect number check using function
 └── README.md
 ```
 
