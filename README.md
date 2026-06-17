@@ -71,6 +71,31 @@ Summer_Assignment_2501920110344/
 │   ├── Q46.c — Armstrong number check using function
 │   ├── Q47.c — Find Nth Fibonacci term using function
 │   └── Q48.c — Perfect number check using function
+├── day13/
+│   ├── Q49.c — Input and display elements of an array
+│   ├── Q50.c — Sum and average of array elements
+│   ├── Q51.c — Find maximum and minimum elements in an array
+│   └── Q52.c — Count even and odd numbers in an array
+├── day14/
+│   ├── Q53.c — Search an element in an array (Linear search)
+│   ├── Q54.c — Find the frequency of a specific element in an array
+│   ├── Q55.c — Find the second largest element in an array
+│   └── Q56.c — Find and print duplicate elements in an array
+├── day15/
+│   ├── Q57.c — Reverse the elements of an array
+│   ├── Q58.c — Left rotate elements of an array by one position
+│   ├── Q59.c — Right rotate elements of an array by one position
+│   └── Q60.c — Move all zero elements to the end of the array
+├── day16/
+│   ├── Q61.c — Find the missing number in an array
+│   ├── Q62.c — Find the element with maximum frequency in an array
+│   ├── Q63.c — Find a pair of elements with a given sum
+│   └── Q64.c — Remove duplicate elements from an array
+├── day17/
+│   ├── Q65.c — Merge two arrays
+│   ├── Q66.c — Find and print the union of two arrays
+│   ├── Q67.c — Find and print the intersection of two arrays
+│   └── Q68.c — Find and print common elements between two arrays
 └── README.md
 ```
 
