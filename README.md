@@ -96,6 +96,51 @@ Summer_Assignment_2501920110344/
 │   ├── Q66.c — Find and print the union of two arrays
 │   ├── Q67.c — Find and print the intersection of two arrays
 │   └── Q68.c — Find and print common elements between two arrays
+├── day18/
+│   ├── Q69.c — Bubble Sort algorithm to sort an array
+│   ├── Q70.c — Selection Sort algorithm to sort an array
+│   ├── Q71.c — Binary Search algorithm to find an element in a sorted array
+│   └── Q72.c — Sort an array in descending order using bubble sort
+├── day19/
+│   ├── Q73.c — Sum of two matrices
+│   ├── Q74.c — Subtraction of two matrices
+│   ├── Q75.c — Transpose of a matrix
+│   └── Q76.c — Sum of main diagonal elements of a square matrix
+├── day20/
+│   ├── Q77.c — Multiplication of two matrices
+│   ├── Q78.c — Check if a matrix is symmetric
+│   ├── Q79.c — Find sum of elements in each row of a matrix
+│   └── Q80.c — Find sum of elements in each column of a matrix
+├── day21/
+│   ├── Q81.c — Find length of a string without library function
+│   ├── Q82.c — Reverse a string without library function
+│   ├── Q83.c — Count vowels and consonants in a string
+│   └── Q84.c — Convert string to uppercase
+├── day22/
+│   ├── Q85.c — Check if a string is a palindrome
+│   ├── Q86.c — Count the total number of words in a string
+│   ├── Q87.c — Find frequency of each character in a string
+│   └── Q88.c — Remove all spaces from a string
+├── day23/
+│   ├── Q89.c — Find the first non-repeating character in a string
+│   ├── Q90.c — Find the first repeating character in a string
+│   ├── Q91.c — Check if two strings are anagrams
+│   └── Q92.c — Find the maximum occurring character in a string
+├── day24/
+│   ├── Q93.c — Check if one string is a rotation of another
+│   ├── Q94.c — Run-length string compression
+│   ├── Q95.c — Find the longest word in a sentence
+│   └── Q96.c — Remove duplicate characters from a string
+├── day25/
+│   ├── Q97.c — Merge two sorted arrays into a single sorted array
+│   ├── Q98.c — Find and print common characters between two strings
+│   ├── Q99.c — Sort an array of names alphabetically
+│   └── Q100.c — Sort an array of strings based on their lengths
+├── day26/
+│   ├── Q101.c — Number guessing game (Random number generator)
+│   ├── Q102.c — Check voting eligibility and wait time
+│   ├── Q103.c — ATM simulation with PIN verification
+│   └── Q104.c — Multiple-choice quiz game
 └── README.md
 ```
 
