@@ -141,6 +141,11 @@ Summer_Assignment_2501920110344/
 │   ├── Q102.c — Check voting eligibility and wait time
 │   ├── Q103.c — ATM simulation with PIN verification
 │   └── Q104.c — Multiple-choice quiz game
+├── day27/
+│   ├── Q105.c — Student Management System
+│   ├── Q106.c — Employee Management System
+│   ├── Q107.c — Salary Management System
+│   └── Q108.c — Student Marksheet System
 └── README.md
 ```
 
