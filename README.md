@@ -151,6 +151,16 @@ Summer_Assignment_2501920110344/
 │   ├── Q110.c — Bank Account Management System
 │   ├── Q111.c — Ticket Booking System
 │   └── Q112.c — Contact Management System
+├── day29/
+│   ├── Q113.c — Menu-driven calculator
+│   ├── Q114.c — Array operations system (traverse, insert, delete, search)
+│   ├── Q115.c — String operations system (length, copy, concatenate, compare)
+│   └── Q116.c — Inventory management system
+├── day30/
+│   ├── Q117.c — Student Record System
+│   ├── Q118.c — Mini Library System
+│   ├── Q119.c — Employee Management System
+│   └── Q120.c — Store Inventory & Billing System
 └── README.md
 ```
 
